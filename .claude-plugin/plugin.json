@@ -1,0 +1,7 @@
+{
+  "name": "answer-first",
+  "version": "1.0.0",
+  "description": "Ten rules that move the answer to the top of every reply. No preamble, no waffle, one next step.",
+  "author": { "name": "Charlie Hills", "url": "https://charliehills.substack.com" },
+  "license": "MIT"
+}
