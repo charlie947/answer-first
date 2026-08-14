@@ -1,0 +1,19 @@
+{
+  "name": "answer-first",
+  "owner": {
+    "name": "Charlie Hills",
+    "url": "https://charliehills.substack.com"
+  },
+  "plugins": [
+    {
+      "name": "answer-first",
+      "source": ".",
+      "description": "Ten rules that move the answer to the top of every reply. Sentence one is the answer, the number, or the thing to do. No preamble, no recap, no closing question, and one next step at the end. Adapted from the i-have-adhd skill by Ayoub Ghriss under its MIT licence.",
+      "version": "1.0.0",
+      "metadata": {
+        "categories": ["productivity"],
+        "tags": ["bluf", "concise", "output style", "brevity", "communication"]
+      }
+    }
+  ]
+}
