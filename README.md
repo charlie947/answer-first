@@ -1,6 +1,6 @@
 # answer-first
 
-**Sentence one is the answer.** Ten rules that stop your agent burying the point in paragraph four.
+**Sentence one is the answer.** Eleven rules that stop your agent burying the point in paragraph four.
 
 Once invoked they apply for the rest of the conversation. They do not expire when the topic changes.
 
@@ -23,7 +23,7 @@ The rules cover: bottom line up front, lead with the next action, number multi-s
 
 ## Credit
 
-The ten rules are adapted from the open-source [i-have-adhd](https://github.com/ayoubghriss/i-have-adhd) project, MIT licensed, Copyright (c) 2026 Ayoub Ghriss. The skill packaging, the BLUF rule and the later additions are mine. Both copyright lines are in the LICENSE and the notice is preserved in the skill itself.
+Rules 1 to 10 are adapted from the open-source [i-have-adhd](https://github.com/ayghri/i-have-adhd) project, MIT licensed, Copyright (c) 2026 Ayoub Ghriss. The skill packaging, the BLUF rule and the later additions are mine. Both copyright lines are in the LICENSE and the notice is preserved in the skill itself.
 
 ## Licence
 
